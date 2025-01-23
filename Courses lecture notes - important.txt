@@ -13,3 +13,13 @@ https://courses.grainger.illinois.edu/cs357/fa2019/references/ref-7-linsys/
 
 Linear Algebra for Data Science
 https://shainarace.github.io/LinearAlgebra/index.html
+https://www.youtube.com/playlist?list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1
+
+MATHEMATICAL METHODS in DATA SCIENCE
+https://mmids-textbook.github.io/index.html
+
+MULTIVARIATE STATISTICAL (NICE PCA APPLICATION)
+https://rich-d-wilkinson.github.io/MATH3030/index.html
+
+Elias jarlebring
+https://www.youtube.com/watch?v=TN1B5hbbv-c
