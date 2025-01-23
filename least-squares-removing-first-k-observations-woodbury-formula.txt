@@ -1,0 +1,1 @@
+https://stats.stackexchange.com/questions/449492/least-squares-removing-first-k-observations-woodbury-formula
