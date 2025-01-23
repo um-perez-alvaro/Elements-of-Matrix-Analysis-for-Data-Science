@@ -1,0 +1,9 @@
+Bindel Matrix Computations : Lectures
+https://www.cs.cornell.edu/~bindel/class/cs6210-f12/lectures.html
+
+Bindel Numerical Methods for Data Science
+https://github.com/dbindel/cs6241-s21/blob/main/lec/notes/2021-02-09.tex
+https://www.cs.cornell.edu/courses/cs6241/2023fa/schedule.html
+
+Algorithms for big data
+http://madscience.ucsd.edu/bigdata.html

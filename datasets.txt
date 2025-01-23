@@ -1,0 +1,1 @@
+https://scikit-network.readthedocs.io/en/stable/tutorials/data/load_collection.html
